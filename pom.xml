@@ -23,8 +23,12 @@
 	</properties>
 
 	<dependencies>
+		<dependency>
+			<groupId>de.mxro.gtwutils</groupId>
+			<artifactId>mxGWTUtils</artifactId>
+			<version>[0.0.1,)</version>
+		</dependency>
 
-		
 		<dependency>
 			<groupId>org.eclipse.xtend</groupId>
 			<artifactId>org.eclipse.xtend.lib</artifactId>
@@ -327,7 +331,7 @@
 
 	</build>
 
-	
+
 
 	<repositories>
 		<repository>

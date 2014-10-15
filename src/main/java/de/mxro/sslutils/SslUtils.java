@@ -5,6 +5,8 @@ import java.util.Map;
 
 import javax.net.ssl.SSLContext;
 
+import de.mxro.sslutils.internal.SslContextFactory;
+
 public class SslUtils {
 
     public static Map<SslKeyStoreData, SSLContext> cache;
