@@ -9,6 +9,7 @@
 	</description>
 	<url>https://github.com/mxro/java-ssl-utils</url>
 
+
 	<properties>
 		<module.gwtVersion>2.5.1</module.gwtVersion>
 		<module.draftCompile>true</module.draftCompile>
