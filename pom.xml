@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<artifactId>java-ssl-utils</artifactId>
 	<groupId>de.mxro.sslutils</groupId>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<description>Utilities to work with SSL in Java
 	</description>
 	<url>https://github.com/mxro/java-ssl-utils</url>
